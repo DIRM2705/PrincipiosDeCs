@@ -78,5 +78,42 @@ namespace Conceptos_básicos
 
             float z = x--; //z = 0, x = -1
         }
+
+        void OperadoresLógicos()
+        {
+            bool x;
+            //Estos operadores se usan para formar condiciones.
+            //Al usarse devuelven un valor lógico, ya sea verdadero o falso;
+
+            /*
+             * Operador  descripción
+             * ==          igual que
+             * !=          distinto que
+             * <=          menor o igual que
+             * >=          mayor o igual que
+             * <           menor que
+             * >           mayor que
+             */
+
+            //ejemplos
+
+            x = 2 + 2 == 4;
+            //Salida: true
+
+            x = 95 != 96;
+            //salida: true
+
+            x = 10 <= 15;
+            //Salida: false
+
+            x = 35 * 2 >= 70;
+            //Salida: true
+
+            x = 10 < 0.5;
+            //Salida false
+
+            x = 'a' > 'b'; //Aquí se toman los valores en Ascii. En este caso la expresión sería equivalente a x = 97 > 98
+            //Salida false
+        }
     }
 }
