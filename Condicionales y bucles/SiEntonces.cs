@@ -21,5 +21,27 @@ namespace Condicionales_y_bucles
                 Console.WriteLine(false);// Código a ejecutar si la condición es falsa
             }
         }
+
+        void ifElseIf()
+        {
+            //El comando Si-Sino si te permite verificar entre diferentes condiciones
+            if(/*Aquí va la primer condición*/)
+            {
+
+            }
+            else if(/*Aquí va la segunda concición*/)
+            {
+
+            }
+            else if(/*Aquí va la tercera condición*/)
+            {
+
+            }
+            else
+            {
+                 //Si ninguna de las condiciones se cumple se ejecuta este código
+            }
+
+        }
     }
 }
