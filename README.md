@@ -9,4 +9,4 @@ En este repositorio se propone la idea de enseñar a todos aquellos aficionados 
 - 1.5 [Operadores](https://github.com/DIRM2705/PrincipiosDeCs/blob/main/Conceptos%20b%C3%A1sicos/Operadores.cs "Operadores")
 ### 2. Condiciones y bucles
 - 2.1. [Si entonces](https://github.com/DIRM2705/PrincipiosDeCs/blob/main/Condicionales%20y%20bucles/SiEntonces.cs "Si entonces")
-- 2.2.[Switch](https://github.com/DIRM2705/PrincipiosDeCs/blob/main/Condicionales%20y%20bucles/Switch.cs "Switch")
+- 2.2. [Switch](https://github.com/DIRM2705/PrincipiosDeCs/blob/main/Condicionales%20y%20bucles/Switch.cs "Switch")
