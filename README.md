@@ -10,3 +10,4 @@ En este repositorio se propone la idea de enseñar a todos aquellos aficionados 
 ### 2. Condiciones y bucles
 - 2.1. [Si entonces](https://github.com/DIRM2705/PrincipiosDeCs/blob/main/Condicionales%20y%20bucles/SiEntonces.cs "Si entonces")
 - 2.2. [Switch](https://github.com/DIRM2705/PrincipiosDeCs/blob/main/Condicionales%20y%20bucles/Switch.cs "Switch")
+- 2.3. [Bucle while](https://github.com/DIRM2705/PrincipiosDeCs/blob/main/Condicionales%20y%20bucles/BucleWhile.cs "Bucle While")
