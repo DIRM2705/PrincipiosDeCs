@@ -48,7 +48,7 @@ namespace Condicionales_y_bucles
             }
 
             //Salida del código:
-            //1,3,5,7,9
+            //1,3,5,7,9 
         }
     }
 }

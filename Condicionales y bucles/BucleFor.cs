@@ -14,7 +14,7 @@ namespace Condicionales_y_bucles
          * for(variable inicial; condición; incremento de la variable incial después de cada iteración)
          * {
          *      Instrucciones();
-         * }
+         * } 
          */
 
         void Bucle_For()
