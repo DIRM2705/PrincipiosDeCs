@@ -11,5 +11,6 @@ En este repositorio se propone la idea de enseñar a todos aquellos aficionados 
 - 2.1. [Si entonces](https://github.com/DIRM2705/PrincipiosDeCs/blob/main/Condicionales%20y%20bucles/SiEntonces.cs "Si entonces")
 - 2.2. [Switch](https://github.com/DIRM2705/PrincipiosDeCs/blob/main/Condicionales%20y%20bucles/Switch.cs "Switch")
 - 2.3. [Bucle while](https://github.com/DIRM2705/PrincipiosDeCs/blob/main/Condicionales%20y%20bucles/BucleWhile.cs "Bucle While")
-- 2.4. [Bucle for](https://github.com/DIRM2705/PrincipiosDeCs/blob/main/Condicionales%20y%20bucles/BucleFor.cs)
-- 2.5 [Break y Continue]()
+- 2.4. [Bucle for](https://github.com/DIRM2705/PrincipiosDeCs/blob/main/Condicionales%20y%20bucles/BucleFor.cs "Bucle for")
+- 2.5 [Break y Continue](https://github.com/DIRM2705/PrincipiosDeCs/blob/main/Condicionales%20y%20bucles/BreakContinue.cs "Break y Continue")
+- 2.6 [Operador condicional]("Operador condicional")
